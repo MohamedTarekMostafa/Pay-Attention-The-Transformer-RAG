@@ -61,4 +61,10 @@ Instead of just searching and answering, an **Agentic RAG** would:
     ```
 
 ---
+###  The User Interface
+<img width="860" height="569" alt="Capture" src="https://github.com/user-attachments/assets/c0ef4c67-4a04-42da-bd33-83e91616df22" />
+<img width="825" height="470" alt="2" src="https://github.com/user-attachments/assets/63b446d8-1a6b-401e-b27a-7aa0dfd3aaf7" />
+<img width="859" height="429" alt="3" src="https://github.com/user-attachments/assets/6e83ed96-4b57-4248-814f-03b49198d80a" />
+
+
 *If you're into Transformers or just want to geek out over RAG architectures, feel free to reach out!*
