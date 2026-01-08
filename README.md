@@ -67,4 +67,4 @@ Instead of just searching and answering, an **Agentic RAG** would:
 <img width="859" height="429" alt="3" src="https://github.com/user-attachments/assets/6e83ed96-4b57-4248-814f-03b49198d80a" />
 
 
-*If you're into Transformers or just want to geek out over RAG architectures, feel free to reach out!*
+for more controllability for your data check out my Agentic Rag Project : https://github.com/MohamedTarekMostafa/Hybrid-RAG-Agent
